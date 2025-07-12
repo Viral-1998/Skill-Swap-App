@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Skill-swap-App.Server.props" />
+</Project>
